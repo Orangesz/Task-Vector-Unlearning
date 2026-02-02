@@ -3,6 +3,8 @@ This project aims to compare and improve several unlearning methods. LLM models 
 
 We used several standard methods of unlearning (Gradient Ascent, KL Divergence) and a more experimental method of unlearning (Task Vector Unlearning) and compared the effects of each method on multilingual data sets.
 
+Additionally, an entire write-up on this project is provided as a PDF in this repo.
+
 ---
 
 ## ⚙️ Setup
